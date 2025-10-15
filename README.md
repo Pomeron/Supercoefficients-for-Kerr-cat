@@ -26,12 +26,11 @@ The project requires the following packages:
 - numpy (mandatory)
 - sympy (mandatory)
 - scipy (mandatory)
+- swg (Schrieffer-Wolff procedure generator which is currently under the development and distributed as a wheel only. Downloadadle from https://dl.cloudsmith.io/public/cs-x033/swg/python/simple/)
+- [ninatool](https://github.com/sandromiano/ninatool)
 - jupyter (for examples)
 - matplotlib (for examples)
 
-Schrieffer-Wolff procedure generator (currently under the development and distributed as a wheel only)
-
--swg (downloadadle from https://dl.cloudsmith.io/public/cs-x033/swg/python/simple/)
 
 To install project, execute "pip install -r requirements.txt" in the package directory.
 
