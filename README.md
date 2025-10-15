@@ -8,9 +8,8 @@ Supercoefficent approach allows to calculate the amplitudes of various parametri
 in a circuit Hamiltonian. the bookkeeping is made systematic by coefficients which appropriately
 keep track of the order of each parametric process. The main advantage of the approach that it is
 agnostic to the system Hamiltonian, reminiscent to a Taylor series of a function:
-
 $$
-\hat{{H}}=\omega_0\hat{a}^\dag\hat{a}+\sum\limits_{ n,l,p=0}^{\{l,p\}^\prime}{C}_{nl,p}(\hat{a}^{\dag n}\hat{a}^{n+l}+\hat{a}^{\dag n+l}\hat{a}^{n})(e^{ip(\omega_d{t}{+}\gamma)}+e^{-ip(\omega_d{t}{+}\gamma)})
+\hat{{H}}=\omega_0\hat{a}^\dagger\hat{a}+\sum\limits_{ n,l,p=0}^{\{l,p\}^\prime}{C}_{nl,p}(\hat{a}^{\dagger n}\hat{a}^{n+l}+\hat{a}^{\dagger n+l}\hat{a}^{n})(e^{ip(\omega_d{t}{+}\gamma)}+e^{-ip(\omega_d{t}{+}\gamma)})
 $$
 
 The concrete coeffcients, $C_{nl,p}$, contain comprehensive information about the circuit and make it easier to distinguish 
