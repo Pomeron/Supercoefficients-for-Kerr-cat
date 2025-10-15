@@ -35,7 +35,7 @@ The project requires the following packages:
 To install project, execute "pip install -r requirements.txt" in the package directory.
 
 The package could be rebuilt locally with "python -m build" and installed with pip from dist directory 
-but still requires "ip install swg --index-url https://dl.cloudsmith.io/public/cs-x033/swg/python/simple/" before swg package is made public.
+but still requires "pip install swg --index-url https://dl.cloudsmith.io/public/cs-x033/swg/python/simple/" before swg package is made public.
 
 # Examples
 
