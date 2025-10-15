@@ -55,7 +55,7 @@ For inquiries, comments, suggestions etc. you can contact the authors at **super
 
 # acknowledgements
 
-The project uses some GUI widgets from [ninatool](https://github.com/sandromiano/ninatool) repo. The main functionality of NINA is 
+The project uses some functionality from [ninatool](https://github.com/sandromiano/ninatool) repo. The main functionality of NINA is 
 to compute the Taylor expansion coefficient of the effective potential energy function of an arbitrary flux-biased 
 superconducting loop. The loop can host any combination of Josephson junctions (JJs) and linear inductances. NINA can also
  compute the Hamiltonian series expansion of an arbitrary Josephson nonlinear oscillator (limited for now to a single mode).
