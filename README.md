@@ -16,7 +16,7 @@ and track how different properties—such as drive power, circuit topology, and 
 to the various parametric processes.
 
 $L_\mathrm{U} = \dfrac{\Phi_0}{2\pi I_\mathrm{U}}$
-$C_{pl}$
+$C_{p,l}$
 
 
 # installation instructions
