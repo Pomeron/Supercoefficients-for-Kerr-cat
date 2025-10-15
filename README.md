@@ -30,6 +30,7 @@ The project requires the following packages:
 - matplotlib (for examples)
 
 Schrieffer-Wolff procedure generator (currently under the development and distributed as a wheel only)
+
 -swg (downloadadle from https://dl.cloudsmith.io/public/cs-x033/swg/python/simple/)
 
 To install project, execute "pip install -r requirements.txt" in the package directory.
