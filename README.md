@@ -17,8 +17,6 @@ The concrete coeffcients, $C_{nl,p}$, contain comprehensive information about th
 and track how different properties—such as drive power, circuit topology, and zero-point fluctuations—contribute 
 to the various parametric processes.
 
-$L_\mathrm{U} = \dfrac{\Phi_0}{2\pi I_\mathrm{U}}$
-$C_{nl,p}$
 
 
 # installation instructions
