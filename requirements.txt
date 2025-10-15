@@ -1,0 +1,12 @@
+# Primary index: your private Cloudsmith repo
+-i https://dl.cloudsmith.io/public/cs-x033/swg/python/simple/
+
+# Also allow installing public packages from PyPI
+--extra-index-url https://pypi.org/simple
+--prefer-binary
+
+# Your dependencies
+swg==0.1.0
+scs-kc
+sympy
+numpy
