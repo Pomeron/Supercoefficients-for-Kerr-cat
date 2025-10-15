@@ -11,12 +11,12 @@ agnostic to the system Hamiltonian, reminiscent to a Taylor series of a function
 $$
 \hat{{H}}=\omega_0\hat{a}^\dag\hat{a}+&\sum\limits_{ n,l,p=0}^{\{l,p\}^\prime}{C}_{nl,p}(\hat{a}^{\dag n}\hat{a}^{n+l}+\hat{a}^{\dag n+l}\hat{a}^{n})(e^{ip(\omega_d{t}{+}\gamma)}+e^{-ip(\omega_d{t}{+}\gamma)})
 $$
-The concrete coeffcients, ${C}_{nl,p}$, contain comprehensive information about the circuit and make it easier to distinguish 
+The concrete coeffcients, $C_{nl,p}$, contain comprehensive information about the circuit and make it easier to distinguish 
 and track how different properties—such as drive power, circuit topology, and zero-point fluctuations—contribute 
 to the various parametric processes.
 
 $L_\mathrm{U} = \dfrac{\Phi_0}{2\pi I_\mathrm{U}}$
-$C_{p,l}$
+$C_{nl,p}$
 
 
 # installation instructions
