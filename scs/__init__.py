@@ -15,5 +15,15 @@ except ImportError:
         "Please install with:\n\n"
         "    pip install swg --index-url https://dl.cloudsmith.io/public/cs-x033/swg/python/simple/\n"
     )
+    
+    
+try:
+    import ninatool.circuits.base_circuits
+except ImportError:
+    raise ImportError(
+        "⚠️ Missing dependency 'swg'.\n"
+        "Please refer to https://github.com/sandromiano/ninatool for NINA installation."
+        "    pip install swg --index-url https://dl.cloudsmith.io/public/cs-x033/swg/python/simple/\n"
+    )
 
 

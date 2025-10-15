@@ -10,3 +10,4 @@ swg==0.1.0
 scs-kc
 sympy
 numpy
+scipy
