@@ -26,7 +26,7 @@ The project requires the following packages:
 - numpy (mandatory)
 - sympy (mandatory)
 - scipy (mandatory)
-- swg (Schrieffer-Wolff procedure generator which is currently under the development and distributed as a wheel only. Downloadadle from https://dl.cloudsmith.io/public/cs-x033/swg/python/simple/)
+- swg (Schrieffer-Wolff procedure generator which is currently under the development and distributed as a wheel only. Downloadadle from [**Cloudsmith**](https://dl.cloudsmith.io/public/cs-x033/swg/python/simple/))
 - [ninatool](https://github.com/sandromiano/ninatool)
 - jupyter (for examples)
 - matplotlib (for examples)
