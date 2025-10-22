@@ -6,8 +6,12 @@
 --prefer-binary
 
 # Your dependencies
-swg==0.1.0
+swg
 scs-kc
+dill
 sympy
 numpy
 scipy
+jupyter
+matplotlib
+git+https://github.com/sandromiano/ninatool.git@main#egg=ninatool
