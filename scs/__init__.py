@@ -7,6 +7,16 @@ Created on Mon Oct  6 13:23:51 2025
 """
 
 # scs/__init__.py
+
+try:
+    import ninatool.circuits.base_circuits
+except ImportError:
+    raise ImportError(
+        "⚠️ Missing dependency 'ninatool'.\n"
+        "Please refer to https://github.com/sandromiano/ninatool for NINA installation."
+        
+    )
+    
 try:
     import swg.sw_procedure
 except ImportError:
@@ -17,13 +27,6 @@ except ImportError:
     )
     
     
-try:
-    import ninatool.circuits.base_circuits
-except ImportError:
-    raise ImportError(
-        "⚠️ Missing dependency 'swg'.\n"
-        "Please refer to https://github.com/sandromiano/ninatool for NINA installation."
-        "    pip install swg --index-url https://dl.cloudsmith.io/public/cs-x033/swg/python/simple/\n"
-    )
+
 
 
